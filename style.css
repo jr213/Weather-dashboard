@@ -1,0 +1,35 @@
+
+.card-container{
+    display: flex;
+    flex-direction: row;
+
+}
+.navbar{
+    display: flex;
+    background-color: blue;
+    color: white;
+    height: 80px;
+}
+.navbar-brand{
+    display: flex;
+    margin-left: 480px;
+    color: white
+}
+.searchBar{
+    display: flex;
+    margin: 8px;
+}
+.searchBtn{
+    background-color: white;
+    border-radius: 10%;
+    
+
+}
+.searchBtn:hover{
+    background-color: blue;
+    color: white;
+}
+.wrapper{
+    display: flex;
+    flex-direction: row;
+}
